@@ -6,6 +6,9 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   forecast:
     runs-on: ubuntu-latest
@@ -21,3 +24,14 @@ jobs:
 
       - name: Run forecast
         run: python forecast.py
+
+      - name: Save forecast
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add forecast.json
+
+          git diff --cached --quiet || git commit -m "Update daily weather forecast"
+
+          git push
