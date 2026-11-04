@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:38:37.259796",
+  "generated_at": "2026-11-04T03:57:36.741859",
   "region": {
     "name": "Central Vietnam",
     "lat_min": 14.5,
@@ -11,122 +11,122 @@
   "grid_points": 33,
   "forecast": [
     {
-      "date": "2026-11-03",
-      "temperature": {
-        "min": 12.0,
-        "max": 30.5,
-        "average_min": 23.27,
-        "average_max": 27.45
-      },
-      "rain": {
-        "average_mm": 8.81,
-        "maximum_mm": 23.8
-      },
-      "wind": {
-        "average_kmh": 14.86,
-        "maximum_kmh": 24.9
-      }
-    },
-    {
       "date": "2026-11-04",
       "temperature": {
-        "min": 12.2,
-        "max": 31.3,
-        "average_min": 24.09,
-        "average_max": 28.22
+        "min": 12.5,
+        "max": 31.4,
+        "average_min": 24.33,
+        "average_max": 28.12
       },
       "rain": {
-        "average_mm": 2.72,
-        "maximum_mm": 7.0
+        "average_mm": 4.8,
+        "maximum_mm": 18.0
       },
       "wind": {
-        "average_kmh": 13.82,
-        "maximum_kmh": 24.6
+        "average_kmh": 14.36,
+        "maximum_kmh": 27.9
       }
     },
     {
       "date": "2026-11-05",
       "temperature": {
-        "min": 10.7,
-        "max": 31.9,
-        "average_min": 23.94,
-        "average_max": 28.45
+        "min": 11.2,
+        "max": 31.3,
+        "average_min": 23.97,
+        "average_max": 28.28
       },
       "rain": {
-        "average_mm": 1.41,
-        "maximum_mm": 6.2
+        "average_mm": 2.98,
+        "maximum_mm": 7.3
       },
       "wind": {
-        "average_kmh": 16.53,
-        "maximum_kmh": 26.1
+        "average_kmh": 17.68,
+        "maximum_kmh": 25.3
       }
     },
     {
       "date": "2026-11-06",
       "temperature": {
-        "min": 9.8,
-        "max": 31.4,
-        "average_min": 23.58,
-        "average_max": 28.39
+        "min": 10.8,
+        "max": 31.2,
+        "average_min": 24.09,
+        "average_max": 28.2
       },
       "rain": {
-        "average_mm": 1.17,
-        "maximum_mm": 3.2
+        "average_mm": 1.39,
+        "maximum_mm": 5.7
       },
       "wind": {
-        "average_kmh": 19.79,
-        "maximum_kmh": 28.8
+        "average_kmh": 19.7,
+        "maximum_kmh": 29.0
       }
     },
     {
       "date": "2026-11-07",
       "temperature": {
-        "min": 9.8,
-        "max": 30.9,
-        "average_min": 23.38,
-        "average_max": 28.14
+        "min": 11.8,
+        "max": 30.7,
+        "average_min": 23.52,
+        "average_max": 27.9
       },
       "rain": {
-        "average_mm": 2.69,
-        "maximum_mm": 6.4
+        "average_mm": 3.5,
+        "maximum_mm": 10.2
       },
       "wind": {
-        "average_kmh": 19.86,
-        "maximum_kmh": 33.9
+        "average_kmh": 19.72,
+        "maximum_kmh": 34.4
       }
     },
     {
       "date": "2026-11-08",
       "temperature": {
-        "min": 9.3,
-        "max": 31.4,
-        "average_min": 23.02,
-        "average_max": 28.2
+        "min": 8.8,
+        "max": 30.9,
+        "average_min": 23.03,
+        "average_max": 27.91
       },
       "rain": {
-        "average_mm": 3.29,
-        "maximum_mm": 8.3
+        "average_mm": 2.3,
+        "maximum_mm": 10.1
       },
       "wind": {
-        "average_kmh": 20.58,
-        "maximum_kmh": 38.3
+        "average_kmh": 18.92,
+        "maximum_kmh": 30.3
       }
     },
     {
       "date": "2026-11-09",
       "temperature": {
-        "min": 9.8,
-        "max": 30.6,
-        "average_min": 22.13,
-        "average_max": 26.36
+        "min": 8.8,
+        "max": 30.3,
+        "average_min": 22.18,
+        "average_max": 27.13
       },
       "rain": {
-        "average_mm": 34.9,
-        "maximum_mm": 65.2
+        "average_mm": 26.2,
+        "maximum_mm": 58.5
       },
       "wind": {
-        "average_kmh": 31.02,
-        "maximum_kmh": 53.7
+        "average_kmh": 32.14,
+        "maximum_kmh": 54.2
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "temperature": {
+        "min": 12.0,
+        "max": 29.0,
+        "average_min": 22.62,
+        "average_max": 25.42
+      },
+      "rain": {
+        "average_mm": 45.5,
+        "maximum_mm": 140.6
+      },
+      "wind": {
+        "average_kmh": 36.45,
+        "maximum_kmh": 56.5
       }
     }
   ]
